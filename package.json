@@ -1,0 +1,12 @@
+{
+  "name": "alexa-phill",
+  "version": "1.0.0",
+  "description": "A sample Alexa skill that can be used to trigger a response",
+  "main": "phill.js",
+  "dependencies": {
+    "alexa-app": "^3.2.0",
+    "express": "^4.15.2"
+  },
+  "author": "Agrim Asthana <dev@agrimasthana.com> (http://www.agrimasthana.com/)",
+  "license": "GPL-V3"
+}
