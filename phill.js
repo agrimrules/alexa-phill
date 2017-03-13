@@ -17,4 +17,15 @@ app.intent('QuestionIntent',{
   res.say(`Yes I am ${input}.`)
 });
 
+app.intent('RepeatIntent',{
+  'slots': {
+    'WORD': 'LITERAL'
+  },
+  'utterances':[
+    'to repeat {-|WORD}'
+  ]
+}, (req, res)=>{
+  res.say(`${req.slot('WORD')}`)
+});
+
 exports.handler = app.lambda();
