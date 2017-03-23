@@ -5,7 +5,8 @@
   "main": "phill.js",
   "dependencies": {
     "alexa-app": "^3.2.0",
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "sentiment": "^3.0.1"
   },
   "author": "Agrim Asthana <dev@agrimasthana.com> (http://www.agrimasthana.com/)",
   "license": "GPL-V3"
