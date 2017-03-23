@@ -12,4 +12,4 @@ v0.1.0: Initial release with the `cash me outside easter egg`
 ### Credits
 
  * [alexa-app](https://github.com/alexa-js/alexa-app)
- * [sentiment] (https://github.com/thisandagain/sentiment)
+ * [sentiment](https://github.com/thisandagain/sentiment)
