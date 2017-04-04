@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "WORD",
+          "type": "LITERAL"
+        }
+      ],
+      "intent": "TextIntent"
+    }
+  ]
+}

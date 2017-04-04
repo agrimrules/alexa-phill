@@ -1,0 +1,3 @@
+TextIntent to text {how are you |WORD}
+TextIntent to text {Good night |WORD}
+TextIntent to text {Dicks out for Harambe |WORD}
