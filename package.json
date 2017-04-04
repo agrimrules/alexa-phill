@@ -6,7 +6,9 @@
   "dependencies": {
     "alexa-app": "^3.2.0",
     "express": "^4.15.2",
-    "sentiment": "^3.0.1"
+    "request": "^2.81.0",
+    "sentiment": "^3.0.1",
+    "twilio": "^2.11.1"
   },
   "author": "Agrim Asthana <dev@agrimasthana.com> (http://www.agrimasthana.com/)",
   "license": "GPL-V3"
