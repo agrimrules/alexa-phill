@@ -8,6 +8,15 @@
         }
       ],
       "intent": "TextIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "SENTIMENT",
+          "type": "LITERAL"
+        }
+      ],
+      "intent": "AnalyzeIntent"
     }
   ]
 }

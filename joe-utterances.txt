@@ -1,3 +1,6 @@
 TextIntent to text {how are you |WORD}
 TextIntent to text {Good night |WORD}
 TextIntent to text {Dicks out for Harambe |WORD}
+AnalyzeIntent to analyze {Whats up |SENTIMENT}
+AnalyzeIntent to process {When in rome do like the romans do |SENTIMENT}
+AnalyzeIntent to evaluate {Jet fuel cant melt steel beams |SENTIMENT}
