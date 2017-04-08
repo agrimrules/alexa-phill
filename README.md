@@ -7,6 +7,7 @@ Recently added [Twilio](https://www.twilio.com) integration to send text message
 will transition all intents to the new `alexa-skills-kit-sdk-for-nodejs`
 
 ### Changelog
+v0.4.1: Ported over the sentiment analysis skill to `alexa-skills-kit-sdk-for-nodejs`    
 v0.4.0: Swapping out `alexa-app` library in favor of `alexa-skills-kit-sdk-for-nodejs` also twilio integration    
 v0.3.1: Fixing Indent in `README.md` and link in Credits   
 v0.3.0: Adding the ability to Analyze speech sentiment based on FINN-165    
