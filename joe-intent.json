@@ -17,6 +17,24 @@
         }
       ],
       "intent": "AnalyzeIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "SERVICE",
+          "type": "LITERAL"
+        }
+      ],
+      "intent": "AuthorizeIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "CODE",
+          "type": "NUMBER"
+        }
+      ],
+      "intent": "VerifyIntent"
     }
   ]
 }

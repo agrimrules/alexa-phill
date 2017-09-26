@@ -7,6 +7,7 @@
     "alexa-sdk": "^1.0.7",
     "express": "^4.15.2",
     "sentiment": "^3.0.1",
+    "speakeasy": "^2.0.0",
     "twilio": "^2.11.1"
   },
   "author": "Agrim Asthana <dev@agrimasthana.com> (http://www.agrimasthana.com/)",

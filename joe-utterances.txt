@@ -4,3 +4,7 @@ TextIntent to text {Dicks out for Harambe |WORD}
 AnalyzeIntent to analyze {Whats up |SENTIMENT}
 AnalyzeIntent to process {When in rome do like the romans do |SENTIMENT}
 AnalyzeIntent to evaluate {Jet fuel cant melt steel beams |SENTIMENT}
+AuthorizeIntent to stop {server |SERVICE}
+AuthorizeIntent to restart {nginx |SERVICE}
+VerifyIntent access code {CODE}
+VerifyIntent code {CODE}
