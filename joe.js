@@ -15,7 +15,7 @@ exports.handler = function(event, context, callback) {
 
 var handlers = {
   'LaunchRequest': function() {
-    this.emit(':tell','Welcome how may I help you faggot?', 'I am sorry I dont understand autism')
+    this.emit(':tell','Welcome how may I help you?', 'I am sorry I dont understand')
   },
   'TextIntent': function () {
     var self = this;
